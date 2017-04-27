@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Task2</name>
+    </assembly>
+    <members>
+        <member name="T:Task2.Task2">
+            <summary>
+            Provides a generic method for binary search 
+            </summary>
+        </member>
+        <member name="M:Task2.Task2.BinarySearch``1(``0[],``0)">
+            <typeparam name="T">user type</typeparam>
+            <param name="arr">array of user type</param>
+            <param name="item">value for search</param>
+            <returns>returns an index of the first </returns>
+        </member>
+        <member name="M:Task2.Task2.BinarySearch``1(``0[],``0,System.Comparison{``0})">
+            <typeparam name="T">user type</typeparam>
+            <param name="arr">array of user type</param>
+            <param name="item">value for search</param>
+            <param name="comp">user comparator</param>
+            <returns>returns an index of the first </returns>
+        </member>
+        <member name="M:Task2.Task2.BinarySearch``1(``0[],``0,System.Collections.Generic.IComparer{``0})">
+            <typeparam name="T">user type</typeparam>
+            <param name="arr">array of user type</param>
+            <param name="item">value for search</param>
+            <param name="comp">user comparator</param>
+            <returns>returns an index of the first </returns>
+        </member>
+    </members>
+</doc>

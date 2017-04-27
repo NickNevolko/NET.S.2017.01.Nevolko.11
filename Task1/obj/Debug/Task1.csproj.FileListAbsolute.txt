@@ -1,0 +1,4 @@
+C:\Users\nikol\documents\visual studio 2015\Projects\NET.01.S.Nevolko.11\Task1\bin\Debug\Task1.dll
+C:\Users\nikol\documents\visual studio 2015\Projects\NET.01.S.Nevolko.11\Task1\bin\Debug\Task1.pdb
+C:\Users\nikol\documents\visual studio 2015\Projects\NET.01.S.Nevolko.11\Task1\obj\Debug\Task1.dll
+C:\Users\nikol\documents\visual studio 2015\Projects\NET.01.S.Nevolko.11\Task1\obj\Debug\Task1.pdb

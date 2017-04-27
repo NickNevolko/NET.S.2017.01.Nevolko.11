@@ -1,0 +1,10 @@
+C:\Users\nikol\documents\visual studio 2015\Projects\NET.01.S.Nevolko.11\TestsTask2\bin\Debug\TestsTask2.dll
+C:\Users\nikol\documents\visual studio 2015\Projects\NET.01.S.Nevolko.11\TestsTask2\bin\Debug\TestsTask2.pdb
+C:\Users\nikol\documents\visual studio 2015\Projects\NET.01.S.Nevolko.11\TestsTask2\bin\Debug\nunit.framework.dll
+C:\Users\nikol\documents\visual studio 2015\Projects\NET.01.S.Nevolko.11\TestsTask2\bin\Debug\Task2.dll
+C:\Users\nikol\documents\visual studio 2015\Projects\NET.01.S.Nevolko.11\TestsTask2\bin\Debug\Task2.pdb
+C:\Users\nikol\documents\visual studio 2015\Projects\NET.01.S.Nevolko.11\TestsTask2\bin\Debug\Task2.xml
+C:\Users\nikol\documents\visual studio 2015\Projects\NET.01.S.Nevolko.11\TestsTask2\bin\Debug\nunit.framework.xml
+C:\Users\nikol\documents\visual studio 2015\Projects\NET.01.S.Nevolko.11\TestsTask2\obj\Debug\TestsTask2.csprojResolveAssemblyReference.cache
+C:\Users\nikol\documents\visual studio 2015\Projects\NET.01.S.Nevolko.11\TestsTask2\obj\Debug\TestsTask2.dll
+C:\Users\nikol\documents\visual studio 2015\Projects\NET.01.S.Nevolko.11\TestsTask2\obj\Debug\TestsTask2.pdb
